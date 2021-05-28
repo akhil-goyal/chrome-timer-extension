@@ -4,19 +4,19 @@
   "version": "1.0.0",
   "description": "A timer extension for the chrome browser.",
   "icons": {
-    "16": "clock.png",
-    "48": "clock.png",
-    "128": "clock.png"
+    "16": "assets/clock.png",
+    "48": "assets/clock.png",
+    "128": "assets/clock.png"
   },
   "action": {
     "default_icon": {
-      "16": "clock.png",
-      "24": "clock.png",
-      "32": "clock.png"
+      "16": "assets/clock.png",
+      "24": "assets/clock.png",
+      "32": "assets/clock.png"
     },
     "default_title": "Timer Extension",
-    "default_popup": "popup.html"
+    "default_popup": "pages/popup.html"
   },
-  "options_page": "options.html",
+  "options_page": "pages/options.html",
   "permissions": ["storage"]
 }
