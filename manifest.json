@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Timer Extension",
+  "version": "1.0.0",
+  "description": "A timer extension for the chrome browser.",
+  "icons": {
+    "16": "clock.png",
+    "48": "clock.png",
+    "128": "clock.png"
+  }
+}
