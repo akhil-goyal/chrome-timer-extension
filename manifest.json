@@ -7,5 +7,14 @@
     "16": "clock.png",
     "48": "clock.png",
     "128": "clock.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "clock.png",
+      "24": "clock.png",
+      "32": "clock.png"
+    },
+    "default_title": "Timer Extension",
+    "default_popup": "popup.html"
   }
 }
