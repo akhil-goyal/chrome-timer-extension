@@ -18,7 +18,7 @@
     "default_popup": "pages/popup.html"
   },
   "options_page": "pages/options.html",
-  "permissions": ["storage"],
+  "permissions": ["storage", "alarms"],
   "background": {
     "service_worker": "service-worker.js"
   }
